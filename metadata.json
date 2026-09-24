@@ -1,0 +1,6 @@
+{
+  "name": "Merchant UPI Charges Calculator - Blogger Edition",
+  "description": "Calculate merchant UPI MDR, interchange fees, GST deductions, and net settlement for P2M, RuPay CC, and PPI wallet transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
